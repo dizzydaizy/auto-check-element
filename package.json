@@ -56,5 +56,8 @@
     "dependencies": {
         "@github/mini-throttle": "^2.1.0"
     },
+    "overrides": {
+        "eslint-plugin-escompat": "3.11.6"
+    },
     "customElements": "custom-elements.json"
 }
